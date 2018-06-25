@@ -80,6 +80,7 @@ h3 {
 
 nav {
   float: right;
+  position: static;
   margin-top: 25px;
 }
 
